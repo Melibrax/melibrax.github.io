@@ -1,6 +1,20 @@
 body {
-	background-color: #aec4e8;
+	text-align: center;
 }
-h1, h2, p {
-	color: #424e60;
+
+h1, h3 {
+	font-family: arial, sans-serif; 
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-weight: bold;
 }
+p {
+	font-family: "courier new", sans-serif;
+	font-style: italic;
+}
+#second {
+	font-weight: bold;
+}
+#second-p { 
+	font-weight: bold;
+ }
