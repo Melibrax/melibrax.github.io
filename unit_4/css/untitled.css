@@ -1,0 +1,46 @@
+body {
+	font-family: verdana;
+	color: #edebe6; 
+}
+
+h1{
+	font-size: 40px;
+	color: #edc7d7;
+	padding-left: 50%;
+	padding-right: 5%
+}
+
+#slogan {
+	font-family: serif;
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 24px; 
+	padding-left: 50%;
+	padding-right: 5%;
+	color: #edebe6; 
+}
+
+footer {
+	font-weight: lighter;
+	font-size: 10;
+	padding-left: 50%;
+	padding-right: 5%;
+	color: #edebe6; 
+}
+
+nav {
+	text-align: center;
+	padding-left: 50%;
+	padding-right: 5%
+}
+
+img {
+	width: 100%;
+	height: 5%;
+}
+
+p {	
+	padding-left: 50%;
+	padding-right: 5%;
+	color: #edebe6; 
+}
