@@ -1,6 +1,5 @@
-
 @import url('https://fonts.googleapis.com/css?family=Kanit:300,400|Playfair+Display:400,900i');
-
+* {margin:0;padding:0;box-sizing:border-box;}
 
 #copyright{
 	font-family:  'Kanit', sans-serif;
@@ -57,9 +56,8 @@ footer {
 nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
-    padding: 20px;
+	padding: 20px;
 	text-align: center;
-	padding-left: 40%;
 	padding-right: 5%;
 }
 
@@ -75,30 +73,29 @@ p {
 nav {
 	font-family:'Open Sans Condensed', sans-serif;
 	color: #5E545F;
-	text-align: left;
 }
 
 
 #song_tiles{
 	background-color: #FFE2B8;
 	border: 1px black solid;
-    padding: 20px;
+	padding: 20px;
 	color: #FCF7FC;
-	text-align: center;
 }
 
 
 #slogan {
 	font-family:  'Kanit', sans-serif;
-	border: 1px black solid;
-    padding: 20px;
-	font-size: 30px; 
+	/* border: 1px black solid; */
+	padding: 20px;
+	font-size: 30px;
 	letter-spacing: 2px;
 	word-spacing: 2px;
 	line-height: 70%;
 	text-align: left;
-	padding-left: 40%;
-	color: #FCF7FC; 
+	color: #FCF7FC;
+	width: 1200px;
+	margin: auto;
 }
 
 
@@ -110,14 +107,12 @@ image {
 #events{
 	background-color: #FFE2B8;
 	color: #FCF7FC;
-	text-align: center;
 }
 
 
 #people{
 	background-color: #FFE2B8;
 	color: #FCF7FC;
-	text-align: center;
 }
 
 
